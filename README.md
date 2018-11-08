@@ -7,7 +7,7 @@ Applies a 10-Fold Cross-Validation among different combination or predictors to 
 
 At least 10 - 15 different combinations were required for project requirements.
 
-The best combination or predictors that I have found to be best:
+The best combination of predictors that I have found to be best out of my 15 combinations:
   log(Height), Neck, Chest, log(Abdomen), Hip, Thigh, Knee, log(Forearm), Wrist
 
-This project was made for my Data Science course at CSUF
+Project was made with RStudio for my Data Science course at CSUF.
